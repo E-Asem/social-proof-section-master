@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/E-Asem/social-proof-section-master](https://github.com/E-Asem/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://e-asem.github.io/social-proof-section-master](https://e-asem.github.io/social-proof-section-master)
 
 ## My process
 
